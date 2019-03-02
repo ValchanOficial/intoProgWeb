@@ -1,0 +1,30 @@
+h1{
+	color: #6A5ACD;
+	font-family: arial;
+	text-align: center;
+}
+body{
+	background: #D3D3D3;
+}
+p{
+	font-size: 15px;
+	text-align: justify;
+	color: #006400;
+}
+p.estilo{
+	color: blue;
+	font-size: 18px;
+	text-align: center;
+}
+p.estilo2{
+	color: black;
+	font-size: 20px;
+	text-align: center;	
+}
+p.img{	
+	text-align: center;
+}
+img{
+	max-width: 35%;
+	height: auto;
+}
